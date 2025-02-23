@@ -16,7 +16,7 @@ The company moved away from spreadsheets to **automate replenishment orders** fo
 ## Project Structure
 ```
 Demand_Forecasting_App/
-│── data/                 # Raw and processed data
+│── data/                 # Raw and processed data - can't add real data here due to compliance 
 │── notebooks/            # Jupyter notebooks for EDA and experiments
 │── src/                  # Source code for the project
 │   ├── features/         # Feature engineering scripts
